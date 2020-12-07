@@ -1,1 +1,1 @@
-React - Using Axios to image data from Unsplash API
+React - Using Axios to get image data from Unsplash API
